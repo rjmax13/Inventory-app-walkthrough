@@ -1,0 +1,15 @@
+{
+  "sqltools.connections": [
+    {
+      "askForPassword": false,
+      "database": "Inventory-app-walkthrough",
+      "driver": "PostgreSQL",
+      "name": "inventory-app",
+      "password": "test",
+      "port": 5432,
+      "previewLimit": 50,
+      "server": "localhost",
+      "username": "postgres"
+    }
+  ]
+}
